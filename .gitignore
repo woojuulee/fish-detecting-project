@@ -15,3 +15,12 @@ experiment-*
 .mypy_cache/*
 not_tracked_dir/
 .vscode
+
+detr/
+datapreprocessing/Yolo-to-COCO-format-converter/data_ver1_coco
+datapreprocessing/Yolo-to-COCO-format-converter/data_yolov8_ver1
+datapreprocessing/Yolo-to-COCO-format-converter/testdata
+yolov5s_result/
+DETRresult/detr_test_log.txt
+
+
